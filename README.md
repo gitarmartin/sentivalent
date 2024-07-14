@@ -38,5 +38,6 @@ MVP?
 
 References to similar projects
 - https://github.com/devgpt-labs/devgpt
+- https://github.com/ItzCrazyKns/Perplexica
 - https://github.com/jamesmurdza/awesome-ai-devtools?tab=readme-ov-file
 ![Quote from George Hotz about HC coding](https://raw.githubusercontent.com/gitarmartin/sentivalent/main/anchillaries/hc-engineering.jpg)
