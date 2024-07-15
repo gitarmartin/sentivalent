@@ -38,6 +38,7 @@ MVP?
 
 References to similar projects
 - https://github.com/devgpt-labs/devgpt
+- https://github.com/phidatahq/phidata
 - https://github.com/microsoft/graphrag
 - https://github.com/ItzCrazyKns/Perplexica
 - https://github.com/jamesmurdza/awesome-ai-devtools?tab=readme-ov-file
