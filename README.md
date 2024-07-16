@@ -4,7 +4,7 @@ Open source: no money involved, unless the project is successful and you end up 
 
 This is an ambitious open-source project aiming to create a comprehensive on-premise AI solution for developers. This AI assistant would go beyond basic code suggestions.
 
-> "_Achieving any goal can be broken down into identifying and learning the necessary skills or qualities needed to progress, and then creating an iterative plan of actions to put that knowledge into practice, reaching the goal one step at a time._" - Martin Terra
+> "_Achieving any goal can be broken down into identifying and learning the necessary skills or qualities needed to progress, and then creating an iterative plan of actions to put that knowledge into practice, reaching the goal one layer at a time._" - Martin Terra
 
 A comprehensive on-premise AI assistant who lives right on your company-owner servers.
 
