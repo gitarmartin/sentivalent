@@ -38,9 +38,10 @@ MVP?
 - In coding style tasks, the version control system facilitates a "locking/synchronization" mechanism that prevents incoherent results due to parallel working threads making simultaneous changes. If overlapping changes found, the later thread must adapt to the code earlier committed and revise its deliverable, and perhaps give feedback to the other thread. On the other hand, for the AI in this situation it will be mroe efficient to simply implement necessary changes and simply notify the other affected threads/action points about the necessary adjustments made. Other kind of collaborative documents might need their own kind of conflict resolution or perhaps CSMA/CD style collision detection.
 - Delivery completeness checklist(s) and specifications for various content types/languages (per iteration checklist might differ somewhat from the checklist when approaching case close).
 
-References to similar projects
+References to similar/relevant projects
 - https://github.com/devgpt-labs/devgpt
 - https://github.com/phidatahq/phidata
+- https://github.com/karpathy/LLM101n
 - https://github.com/microsoft/graphrag
 - https://github.com/ItzCrazyKns/Perplexica
 - https://github.com/jamesmurdza/awesome-ai-devtools?tab=readme-ov-file
