@@ -43,6 +43,7 @@ References to similar/relevant projects
 - https://github.com/phidatahq/phidata
 - https://github.com/karpathy/LLM101n
 - https://github.com/reworkd/AgentGPT
+- https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/
 - https://github.com/microsoft/graphrag
 - https://github.com/ItzCrazyKns/Perplexica
 - https://github.com/jamesmurdza/awesome-ai-devtools?tab=readme-ov-file
