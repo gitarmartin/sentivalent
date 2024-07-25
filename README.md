@@ -47,4 +47,5 @@ References to similar/relevant projects
 - https://github.com/microsoft/graphrag
 - https://github.com/ItzCrazyKns/Perplexica
 - https://github.com/jamesmurdza/awesome-ai-devtools?tab=readme-ov-file
+- https://www.nvidia.com/en-us/ai/
 ![Quote from George Hotz about HC coding](https://raw.githubusercontent.com/gitarmartin/sentivalent/main/anchillaries/hc-engineering.jpg)
