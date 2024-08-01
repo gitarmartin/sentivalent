@@ -6,6 +6,11 @@ This is an ambitious open-source project aiming to create a comprehensive on-pre
 
 > "_Accomplish anything you <ins>want</ins> by breaking down the path to your goal, first into understanding and learning the skills and qualities needed to progress, and then creating an iterative plan of actions that move you towards your goal, one small step at a time._" - Martin Terra
 
+> "_AI could more efficiently handle black box coding tasks—implementing a given specification by any means necessary, even if the process is somewhat opaque, like with LLMs or image generation—compared to trying to replicate the often convoluted and redundant code produced by human programmers._" - Martin Terra
+
+- AI models, particularly those like Large Language Models (LLMs), can generate code based on given specifications without needing to follow traditional human coding practices. This can lead to more efficient and streamlined solutions, as the AI isn't constrained by the same habits and complexities that human coders might introduce.
+- While AI can handle many coding tasks efficiently, it still faces challenges in understanding and implementing complex, nuanced requirements that might benefit from human creativity and experience. Additionally, ensuring the transparency and traceability of AI-generated code remains an important consideration.
+
 A comprehensive on-premise AI assistant who lives right on your company-owner servers.
 
 - The requirement of on-premise solution arises from intellectual property rights: everyone who uses this will install it on their own servers (or their own cloud) which will keep their intellectual property safe.
