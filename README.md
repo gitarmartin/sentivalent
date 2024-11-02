@@ -44,6 +44,7 @@ MVP?
 - Delivery completeness checklist(s) and specifications for various content types/languages (per iteration checklist might differ somewhat from the checklist when approaching case close).
 
 References to similar/relevant projects
+- https://githubnext.com/projects/github-spark
 - https://github.com/OpenDevin/OpenDevin
 - https://github.com/devgpt-labs/devgpt
 - https://github.com/phidatahq/phidata
