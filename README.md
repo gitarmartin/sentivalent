@@ -2,7 +2,7 @@
 
 Open source: no money involved, unless the project is successful and you end up selling consulting, hosted solutions, or creating product spin-offs like the PayPal Mafia.
 
-This is an ambitious open-source project aiming to create a comprehensive on-premise AI solution for developers - automating work of midlevel software engineers. This AI assistant would go beyond basic code suggestions.
+This is an ambitious open-source project aiming to create a comprehensive on-premise AI solution for developers - automating work of midlevel software engineers. This AI assistant would go beyond basic code suggestions. For example Sourcegraph.com claims to be all of this, but it is not.
 
 > "_Accomplish anything you <ins>want</ins> by breaking down the path to your goal, first into understanding and learning the skills and qualities needed to progress, and then creating an iterative plan of actions that move you towards your goal, one small step at a time._" - Martin Terra
 
