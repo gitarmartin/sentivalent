@@ -45,7 +45,8 @@ MVP?
   - Each commit should contain
     - Commit story: summary of premise, rationale, and solution, for changes committed
     - Changed code files
-    - Changes to affected user documentation
+    - Changes to affected user facing documentation
+    - Draft state update to associated case ticket
 - Delivery completeness checklist(s) and specifications for various content types/languages (per iteration checklist might differ somewhat from the checklist when approaching case close).
 
 References to similar/relevant projects
