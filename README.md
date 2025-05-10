@@ -30,7 +30,7 @@
 |● The chat remembers what it can within the chat (like AI chats do) but it can also refer the already committed stories and changes and mentioned source materials (depending on temperature, it should be able to arrive at somewhat identical results repeatably).
 |● The specification assumes real-time chat collaboration and currently doesn't make any special considerations for users contributing at different times or email support. If need arises these will be managed via the tool's own RFE repository.
 
-Sentivalent is Open Source: no money involved, unless the project is successful and you end up selling consulting, hosted solutions, or creating product spin-offs like the PayPal Mafia. Sentivalent is an ambitious open-source project aiming to create a comprehensive on-premise AI solution for developers - automating work of midlevel software engineers. This AI assistant would go beyond basic code suggestions. For example Sourcegraph.com claims to be all of this, but it is not.
+This is an ambitious open-source project aiming to create a comprehensive on-premise AI solution for developers - automating work of midlevel software engineers. This AI assistant would go beyond basic code suggestions. For example Sourcegraph.com claims to be all of this, but it is not. Sentivalent is Open Source: no money involved, unless the project is successful and you end up selling consulting, hosted solutions, or creating product spin-offs like the PayPal Mafia.
 
 > "_Accomplish anything you <ins>want</ins> by breaking down the path to your goal, first into understanding and learning the skills and qualities needed to progress, and then creating an iterative plan of actions that move you towards your goal, one small step at a time._" - Martin Terra
 
