@@ -51,7 +51,7 @@ MVP?
 |● has access to user facing documentation for user perspective
 |● has access to my code base for code perspective (multiple code repositories if necessary)
 |● has configuration authentication/authorization rules for users/ticket contexts/code contexts/repositories to prevent unauthorized access/modification
-|**Workflow:** I can open a discussion about a change, possibly related to an existing ticket and it will:
+|**Workflow:** I can open a discussion about a change, possibly related to existing ticket(s) and it will:
 |● discuss the change request in the chat, to understand what is needed. Multiple users can join the same discussion, like in team chats.
 |● If case is new, it will ask if there are some related tickets (it will include these also into the eventual ticket update draft). If ticket exists it will find such information itself.
 |● during tasking discussion, the AI will review for background info all necessary related information: user facing documentation, existing code, and related tickets, to get the big picture. Implicitly but effectively this also ties feedback from past ticket history/performance to future endeavors.
