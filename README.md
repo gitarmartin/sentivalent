@@ -42,6 +42,10 @@ MVP?
 - Rinse and repeat until metrics that include sentiment of received feedback indicate sufficent completeness (or postpone/escalate to await missing information). If contradicting infotmation arrives later, it can also lead to the reversal of some or all deliverables of associated action poins, but the AI can simply think of this as "moving forward" (changing code/deliverables forward instead of backwards, to achieve equivalent necessary result), thus no actual revert operation needed.
 - Can work virtually on multiple parallel tasks like a swarm. Overall velocity is mind boggling. Humans can keep up and comprehend what it entails only at a very high level, or on a per-review basis. Eventually humans will also review only higher level items and the swarm would propagate the effects of these to the finer detail levels.
 - In coding style tasks, the version control system facilitates a "locking/synchronization" mechanism that prevents incoherent results due to parallel working threads making simultaneous changes. If overlapping changes found, the later thread must adapt to the code earlier committed and revise its deliverable, and perhaps give feedback to the other thread. On the other hand, for the AI in this situation it will be mroe efficient to simply implement necessary changes and simply notify the other affected threads/action points about the necessary adjustments made. Other kind of collaborative documents might need their own kind of conflict resolution or perhaps CSMA/CD style collision detection.
+  - Each commit should contain
+    - Commit story: summary of premise, rationale, and solution, for changes committed
+    - Changed code files
+    - Changes to affected user documentation
 - Delivery completeness checklist(s) and specifications for various content types/languages (per iteration checklist might differ somewhat from the checklist when approaching case close).
 
 References to similar/relevant projects
